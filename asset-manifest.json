@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Discord-Demo/static/css/main.bfc1b5cb.chunk.css",
+    "main.js": "/Discord-Demo/static/js/main.7f6dea75.chunk.js",
+    "main.js.map": "/Discord-Demo/static/js/main.7f6dea75.chunk.js.map",
+    "runtime-main.js": "/Discord-Demo/static/js/runtime-main.c5243706.js",
+    "runtime-main.js.map": "/Discord-Demo/static/js/runtime-main.c5243706.js.map",
+    "static/js/2.d92cc809.chunk.js": "/Discord-Demo/static/js/2.d92cc809.chunk.js",
+    "static/js/2.d92cc809.chunk.js.map": "/Discord-Demo/static/js/2.d92cc809.chunk.js.map",
+    "static/js/3.68fda44a.chunk.js": "/Discord-Demo/static/js/3.68fda44a.chunk.js",
+    "static/js/3.68fda44a.chunk.js.map": "/Discord-Demo/static/js/3.68fda44a.chunk.js.map",
+    "index.html": "/Discord-Demo/index.html",
+    "static/css/main.bfc1b5cb.chunk.css.map": "/Discord-Demo/static/css/main.bfc1b5cb.chunk.css.map",
+    "static/js/2.d92cc809.chunk.js.LICENSE.txt": "/Discord-Demo/static/js/2.d92cc809.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5243706.js",
+    "static/js/2.d92cc809.chunk.js",
+    "static/css/main.bfc1b5cb.chunk.css",
+    "static/js/main.7f6dea75.chunk.js"
+  ]
+}
